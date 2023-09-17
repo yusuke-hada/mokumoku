@@ -19,6 +19,12 @@
           <%= l event.held_at, format: :short %>
         </div>
       </div>
+      <div>
+        <% if event.only_woman? %>
+          <hr />
+          <%= "女性限定" %>
+        <% end %>
+      </div>
       <hr />
       <div class="d-flex align-items-center justify-content-between">
         <div class="d-flex align-items-center gap-3">
