@@ -1,0 +1,51 @@
+  ~/workspace/runteq/graduati
+   app
+  │  assets
+  │  channels
+  │  controllers
+  │  decorators
+  │  helpers
+  │  javascript
+  │  jobs
+  │  mailers
+  │  models                 
+  └  views
+   bin
+   config
+   db
+  │  data
+  │  environment
+  │  migrate
+  │ │  20211214065148_sorcery
+  │ │  20211214065312_create_
+  │ │  20211214065508_create_
+  │ │  20211214065704_create_
+  │ │  20211214065738_create_
+  │ │  20211214065825_create_
+  │ │  20211222041009_create_
+  │ │  20220107031926_create_
+  │ │  20220112024103_create_
+  │ │  20220119072332_create_
+  │ │  20220119072358_create_
+  │ └  20230917083251_add_c★ 
+  │  seeds
+  │  schema.rb
+  └  seeds.rb
+    (2 hidden items)
+   lib
+   log
+   public
+   spec
+   storage
+   tmp
+   vendor
+  󰈙 Gemfile                ✗ 
+  󰌾 Gemfile.lock           ✗ 
+   README.md
+   Rakefile
+   babel.config.js
+   config.ru
+   package.json
+   postcss.config.js
+  󰌾 yarn.lock
+  (10 hidden items)
